@@ -16,7 +16,7 @@ The marketplace registers as `astrofoundry`. Install plugins with `claude plugin
 |---|---|---|
 | [talk-normal](https://github.com/astrofoundry/talk-normal) | Plain, unambiguous, action-first output for coding agents. | astrofoundry/talk-normal |
 
-Each plugin lives in its own repository and also installs directly (`claude plugin marketplace add astrofoundry/<plugin>`) and in other harnesses — see each plugin's INSTALL.md.
+Each plugin lives in its own repository and also installs directly (`claude plugin marketplace add astrofoundry/<plugin>`) and in other harnesses — see each plugin's README.
 
 ## License
 
